@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: pages-themes/minimal@v0.2.0
 title: runbk's homepage
 description: My personal Github Page.
 author: runbk
@@ -6,3 +6,5 @@ email: alexdo@outlook.com
 description: Example description, blah blah blah...
 twitter_username: n/a
 github_username: n/a
+plugins:
+- jekyll-remote-theme
